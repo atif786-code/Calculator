@@ -1,2 +1,2 @@
 # Calculator
-Basic Calculator for Practise.
+Basic Calculator for Practice.
